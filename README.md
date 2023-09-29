@@ -3,8 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnapatil9918&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapatil9918" /> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
 
 - 🔭 I’m currently working on **Frontend Development**
 
