@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishnapatil9918?tab=repositories](https://github.com/krishnapatil9918?tab=repositories)
 
-- 📝 I sometimes write articles on [https://devkrishna.hashnode.dev](https://devkrishna.hashnode.dev)
-
 - 💬 Ask me about **HTML, CSS, Git & Github, Tailwind & Bootstrap, JavaScript, ReactJS**
 
 - 📫 How to reach me **krishnapatil9918@gmail.com**
@@ -25,8 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/dev_krispat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_krispat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishnapatil9918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnapatil9918" height="30" width="40" /></a>
-<a href="https://instagram.com/_krishnapatil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_krishnapatil_" height="30" width="40" /></a>
-<a href="https://hashnode.com/@krishna9918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@krishna9918" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
