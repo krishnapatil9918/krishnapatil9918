@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ****Web Development****
 
-- 👯 I’m looking to collaborate on **ReactJS Projects**
+- 👯 I’m looking to collaborate on **JavaScript Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krishnapatil9918?tab=repositories](https://github.com/krishnapatil9918?tab=repositories)
 
