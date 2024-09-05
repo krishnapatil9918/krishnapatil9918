@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Patil</h1>
 <h3 align="center">"Crafting Exceptional User Experiences through Code and Creativity 💻✨"</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnapatil9918&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapatil9918" /> </p>
-
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
