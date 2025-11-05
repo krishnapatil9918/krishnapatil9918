@@ -21,7 +21,8 @@
 - 💼 Currently: **Full Stack Python Developer Trainee @ Skytus Pvt Ltd**  
 - 💡 Previously: **Next.js Developer Trainee @ Xzect Labs**  
 - 🎓 B.Tech in Biotechnology (Dr. D.Y. Patil Biotechnology & Bioinformatics Institute, Pune)  
-- 🌍 Based in **India**  
+- 🌍 Based in **India**
+- 👨‍💻 Currently working on **Python Backend Development**
 
 ---
 
